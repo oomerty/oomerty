@@ -1,6 +1,11 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/59279876/230118283-ac551734-f8bb-40dd-aecb-c78650da5d9f.png)
 
 [![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=oomerty&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oomerty&show_icons=true&theme=github_dark_dimmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bytheefsane&count={10})
+
 
 <!--
 **oomerty/oomerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
