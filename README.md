@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Behance-f0722a?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
   <a href="https://twitter.com/oomertty">
-    <img src="https://img.shields.io/badge/Twitter-f0722a?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter / X-f0722a?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X Badge"/>
   </a>
   <a href="https://www.fiverr.com/oomert">
     <img src="https://img.shields.io/badge/Fiverr-white?style=for-the-badge&logo=fiverr&logoColor=f0722a" alt="Fiverr Badge"/>
@@ -25,9 +25,9 @@
 
 <hr>
 
-Skills:
+Tools:
 
-<div id="skills">
+<div id="tools">
   <a href="">
     <img src="https://img.shields.io/badge/HTML-f0722a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
   </a>
@@ -35,13 +35,25 @@ Skills:
     <img src="https://img.shields.io/badge/CSS-f0722a?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Figma-f0722a?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-f0722a?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/JavaScript-f0722a?style=for-the-badge&logo=javascript&logoColor=white" alt="Adobe XD Badge"/>
+    <img src="https://img.shields.io/badge/Node JS-f0722a?style=for-the-badge&logo=node-js&logoColor=white" alt="Node Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Adobe XD-f0722a?style=for-the-badge&logo=adobexd&logoColor=white" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/Express-f0722a?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Pug-f0722a?style=for-the-badge&logo=pug&logoColor=white" alt="Pug Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/React-f0722a?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=f0722a" alt="Figma Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Adobe XD-white?style=for-the-badge&logo=adobexd&logoColor=f0722a" alt="Adobe XD Badge"/>
   </a>
 </div>
 
