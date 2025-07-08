@@ -32,7 +32,7 @@ Tools:
     <img src="https://img.shields.io/badge/React-f0722a?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/React Native-f0722a?style=for-the-badge&logo=reactnative&logoColor=white" alt="React Native Badge"/>
+    <img src="https://img.shields.io/badge/React Native-f0722a?style=for-the-badge&logo=react&logoColor=white" alt="React Native Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Node JS-f0722a?style=for-the-badge&logo=node.js&logoColor=white" alt="Node Badge"/>
